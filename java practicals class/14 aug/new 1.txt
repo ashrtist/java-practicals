@@ -1,0 +1,11 @@
+Q31. Write a Java program to check whether a number is even or odd. 
+Q32. Write a Java program to check whether a triangle is valid or not.
+Q33. Write a Java program to check whether a triangle is equilateral , isoscale or scalene. 
+Q34. Write a Java program to check whether a number is positive , negative or zero.
+Q35. Write a Java program to check whether a number is divisible by 5 and 11 or not. 
+Q36. Write a Java program to check whether character is alphabetic or not.
+Q37. Write a Java program to input cost price and selling price of a product and check profit or loss.
+Q38. Write a Java program to check whether a year is leap year or not.
+ 
+Q39. Write a java program to input any alphabet and check whether it is vowel or consonant.
+Q40. Write a java program to input any character and check whether it is alphabet, digit or special character.

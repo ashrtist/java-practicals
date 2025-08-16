@@ -1,0 +1,25 @@
+Today's Practical Task :-
+
+Q1. Write a java program to Check Number Is Spy Number or Not.
+Example :
+A number is said to be a Spy number if the sum of all the digits is equal to the product of all digits.
+     Input : 1412
+     Output : Spy Number 
+
+Explanation :
+sum = (1 + 4 + 1 + 2) = 8
+product = (1 * 4 * 1 * 2) = 8
+since, sum == product == 8
+ 
+Q2. Write a Java program that takes an alphabet character and toggles its case using ASCII values and operators.
+·        Example: a → A, Z → z.
+
+Q3. Write a Java program to calculate the net salary of an employee.
+Input: basic salary, HRA %, DA %, and tax %.
+
+Q4. Given two integers, write a Java program to find the quotient and remainder using only arithmetic operators.
+Input: dividend = 20, divisor = 3 Output: Quotient = 6, Remainder = 2
+ 
+Q5. Write a Java program to check whether a number is a multiple of both 3 and 5 using logical AND (&&) operator.
+Input: 15
+Output: Multiple of both 3 and 5

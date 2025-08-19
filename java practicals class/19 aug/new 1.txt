@@ -1,0 +1,34 @@
+Q51. Problem: 
+Take two integers m and n. Use the ternary operator to print whether the absolute difference between them is greater than 10 or not.
+Example Input:
+m = 25, n = 12
+
+Q52. Problem:
+Write a Java program using the conditional (ternary) operator to find the middle value among three distinct integers p, q, and r.
+Example Input:
+p = 10, q = 20, r = 15
+
+Expected Output:
+Middle Number: 15
+
+Q53. Take percentage and income of a student:
+If percentage >= 75 AND income < 200000, print "Eligible"
+Else "Not Eligible"
+
+Q54. Take a three-digit number and print the larger digit among first and last digit using ternary operator.
+
+Q55. Take a three-digit number and print whether the middle digit is greater than the sum of the first and last digits using the ternary operator.
+
+Example:
+Input: num = 572 → Middle digit 7 vs (5+2)=7 → Equal or Not Greater
+
+
+Input: num = 853 → Middle digit 5 vs (8+3)=11 → Not Greater
+
+Q56. Write a Java expression using arithmetic and assignment operators to calculate net salary if:
+basicSalary = 35000
+taxRate = 12%
+ Find netSalary.
+
+Q57. Question:
+If performance rating > 8, give 15% bonus; else if rating > 5, give 10% bonus; otherwise, no bonus. Use relational operators to implement logic.
